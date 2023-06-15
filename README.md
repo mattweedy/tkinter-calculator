@@ -2,6 +2,7 @@
 This is a simple calculator using tkinter library to create a GUI application. Also contains a more simple cmd line interface if preferable.
 Handles nearly all bad input, still ironing out smaller quirks.
 
+# calculator preview
 ![image](https://github.com/mattweedy/tkinter-calculator/assets/38864508/1aa37d8f-2da4-4f83-a41c-448b4a30e993)
 
 
